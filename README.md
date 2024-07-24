@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 - 🌱 Continuously learning and staying up-to-date with the latest tech trends.
 - 👯 Looking to collaborate on open-source projects and groundbreaking ideas.
 - 💬 Ask me about web development, cloud solutions, or any tech-related topics.
-- 📫 Reach me at: [![Email Badge](https://img.shields.io/badge/Email-YourEmail-red)](mailto:wiyaktechsuperstar5@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ravirajsinh-jadeja-a561ba214))
+- 📫 Reach me at: [![Email Badge](https://img.shields.io/badge/Email-YourEmail-red)](mailto:wiyaktechsuperstar5@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ravirajsinh-jadeja-a561ba214)])
 
 ---
 
@@ -79,7 +79,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiyaktechsuperstar&layout=compact&theme=radical" alt="Top Langs" />
+  
 </p>
+
+---
+
+## 👀 Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{wiyaktechsuperstar}/count.svg)
 
 ---
 
@@ -94,7 +100,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for proble
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ravirajsinh-jadeja-a561ba214"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
